@@ -1,0 +1,2 @@
+npm install discord.js
+npm i -s covidapi
